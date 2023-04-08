@@ -2523,3 +2523,6 @@ p.para-w3-agile {
 	flex-flow: row nowrap;
 	justify-content: space-between;
 }
+.l-img {
+	text-align: center;
+}
