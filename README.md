@@ -1,2 +1,1 @@
-# yunxisec.github.io
-Yunxi-Sec Official Website
+# Yunxi-Sec Official Website
